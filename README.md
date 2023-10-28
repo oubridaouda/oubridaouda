@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Oubri Daouda</h1>
 <h3 align="center">I'm a passionate full-stack developer with a curiosity for exploring various technologies and a love for continuous learning.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oubridaouda&label=Profile%20views&color=0e75b6&style=flat" alt="oubridaouda" /> </p>
+
 - 🌱 I’m currently learning **React Native, React, Angular**
 
 - 👯 I’m looking to collaborate on **open source projects**

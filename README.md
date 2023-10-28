@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 👨‍💻 All of my projects are available at [oubrida.com](https://oubri-daouda-ywf2.vercel.app/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://oubri-daouda-ywf2.vercel.app/)
 
 - 💬 Ask me about **PHP, JavaScript and Dart**
 
